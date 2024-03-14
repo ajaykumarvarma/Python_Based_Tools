@@ -1,7 +1,7 @@
 from deep_translator import GoogleTranslator
 
 #source -> your language
-#target -> Target language for example if it is spanish then use -> es
+#target -> Target language for example if spanish then use -> es
 
 translator = GoogleTranslator(
     source='auto',
